@@ -10,11 +10,7 @@ Original file is located at
 import pandas as pd
 
 
-from sklearn.svm import SVC
-from sklearn.neighbors import KNeighborsClassifier
-from sklearn.linear_model import LogisticRegression
-from sklearn.tree import DecisionTreeClassifier
-from sklearn.metrics import accuracy_score
+
 import matplotlib.pyplot as plt
 
 # Function to print a header with a title

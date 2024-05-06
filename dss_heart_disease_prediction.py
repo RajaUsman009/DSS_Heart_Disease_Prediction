@@ -147,5 +147,3 @@ import numpy as np
 
 with open('/content/drive/MyDrive/RAJA@24/DSS_Model1', 'rb') as f:
     array = np.load(f, allow_pickle=True, dtype='float32')
-
-got an unexpected keyword argument 'dtype'

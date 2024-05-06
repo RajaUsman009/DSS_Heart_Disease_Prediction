@@ -11,7 +11,7 @@ import pandas as pd
 
 
 
-import matplotlib.pyplot as plt
+
 
 # Function to print a header with a title
 def print_header(title):

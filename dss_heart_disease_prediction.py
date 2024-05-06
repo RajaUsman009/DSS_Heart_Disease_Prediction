@@ -34,8 +34,7 @@ def print_prediction(result):
 
 # Step 1: Load and Explore the Dataset
 import pandas as pd
-from sklearn.model_selection import train_test_split
-from sklearn.ensemble import RandomForestClassifier
+
 print_header("Step 1: Load and Explore the Dataset")
 df = pd.read_csv('https://github.com/RajaUsman009/DSS_Heart_Disease_Prediction/blob/main/Heart_disease_cleveland_new.csv')
 # Step 2: Reshape the DataFrame for multiple columns

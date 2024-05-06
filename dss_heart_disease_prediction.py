@@ -8,7 +8,7 @@ Original file is located at
 """
 
 import pandas as pd
-from sklearn.model_selection import train_test_split
+
 from sklearn.ensemble import RandomForestClassifier, GradientBoostingClassifier
 from sklearn.svm import SVC
 from sklearn.neighbors import KNeighborsClassifier

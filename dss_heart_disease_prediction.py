@@ -9,7 +9,7 @@ Original file is located at
 
 import pandas as pd
 
-from sklearn.ensemble import RandomForestClassifier, GradientBoostingClassifier
+
 from sklearn.svm import SVC
 from sklearn.neighbors import KNeighborsClassifier
 from sklearn.linear_model import LogisticRegression
